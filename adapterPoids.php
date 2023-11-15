@@ -24,5 +24,5 @@ if ($poidsTotal <= $poidsMaxAutorise) {
         $poidsTotal = $poidsTotal - $nbKg;
     } while ($poidsTotal > $poidsMaxAutorise);
     echo "Poids total de " , $poidsTotal , " kg autorisé.\n";
-}
+}echo "Poids total actuel : " . $poidsTotal . " kg\n";
 ?>
