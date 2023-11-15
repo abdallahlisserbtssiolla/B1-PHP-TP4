@@ -14,7 +14,9 @@
 3. Voir le fichier enregistrementBagageGroupe-2.php
 -------------------Exercice 5----------------------
 1. L'expression du premier test est $numeroPassager <= $nbPassagers .
-2. 
-3. L'expression du deuxième test est $
+2. $poidsTotal = 85 == $poidsTotal = 85 - $nbKg = 14 == $poidsTotal = 71 .
+3. L'expression du deuxième test est $poidsTotal > $poidsMaxAutorise .
+4. La structure do...while est la plus adaptée car même si elle est fausse, elle reteste une autre valeur.
+5.
 
   
