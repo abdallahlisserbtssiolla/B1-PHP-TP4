@@ -3,7 +3,7 @@
 2. Voir le fichier numSiegesPontEmbarquementTantque.php
 -------------------Exercice 2----------------------
 1. Voir le fichier saisirConfirmation.php
-2. Voir le ficheir saisirConfirmation-2.php
+2. Voir le fichier saisirConfirmation-2.php
 -------------------Exercice 3----------------------
 1. Le nombre d'itérations de la boucle est de 40.
 2.L'expresionn d'évaluation est vraie lorsque $numSiege est divisible par 3.
