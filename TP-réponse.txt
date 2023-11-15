@@ -1,19 +1,23 @@
 -------------------Exercice 1----------------------
-1. Voir le fichier numSiegesPontEmbarquementPour.php
-2. Voir le fichier numSiegesPontEmbarquementTantque.php
+1. Voir le fichier numSiegesPontEmbarquementPour.php .
+2. Voir le fichier numSiegesPontEmbarquementTantque.php .
 -------------------Exercice 2----------------------
-
-
-
-
+1.Voir le fichier .
+2.Voir le fichier .
 -------------------Exercice 3----------------------
-
+1.
+2.
+3.Voir le fichier  .
 
 -------------------Exercice 4----------------------
-
-
+1.
+2.
+3.Voir le fichier .
 -------------------Exercice 5----------------------
-
-
+1.
+2.
+3.
+4.
+5.Voir le fichier .
 
 
