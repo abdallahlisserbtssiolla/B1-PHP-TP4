@@ -1,23 +1,20 @@
 -------------------Exercice 1----------------------
-1. Voir le fichier numSiegesPontEmbarquementPour.php .
-2. Voir le fichier numSiegesPontEmbarquementTantque.php .
+1. Voir le fichier numSiegesPontEmbarquementPour.php
+2. Voir le fichier numSiegesPontEmbarquementTantque.php
 -------------------Exercice 2----------------------
-1.Voir le fichier .
-2.Voir le fichier .
+1. Voir le fichier saisirConfirmation.php
+2. Voir le ficheir saisirConfirmation-2.php
 -------------------Exercice 3----------------------
-1.
-2.
-3.Voir le fichier  .
-
+1. Le nombre d'itérations de la boucle est de 40.
+2.L'expresionn d'évaluation est vraie lorsque $numSiege est divisible par 3.
+3.Voir le fichier siegesbleu.php.
 -------------------Exercice 4----------------------
-1.
-2.
-3.Voir le fichier .
+1. $poidstotal= 10 + $poids=20 + $poids=15 + $poids=30 == $poidstotal= 75 kg.
+2. La meilleure stucture itérative est la boucle while car elle permet de répéter le processus de saisie des bagages jusqu'au 4e passager.
+3. Voir le fichier enregistrementBagageGroupe-2.php
 -------------------Exercice 5----------------------
-1.
-2.
-3.
-4.
-5.Voir le fichier .
+1. L'expression du premier test est $numeroPassager <= $nbPassagers .
+2. 
+3. L'expression du deuxième test est $
 
-
+  
