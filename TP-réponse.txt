@@ -18,7 +18,7 @@
 2. $poidsTotal = 85 == $poidsTotal = 85 - $nbKg = 14 == $poidsTotal = 71 .
 3. L'expression du deuxième test est $poidsTotal > $poidsMaxAutorise .
 4. La structure do...while est la plus adaptée car même si elle est fausse, elle reteste une autre valeur.
-5.Pour observer l'évolution de l'état de la variable $poidsTotal , on met cette ligne de code à la fin du corps de la Boucle  echo "Poids total actuel : " . $poidsTotal . " kg\n";.
+5.Pour observer l'évolution de l'état de la variable $poidsTotal , on met cette ligne de code à la fin du corps de la Boucle: echo "Poids total actuel : " . $poidsTotal . " kg\n";.
 6. Voir le fichier adapterPoids.php .
 -------------------Exercice 6----------------------
 Voir le fichier jeuPasseTemps.php 
